@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sakib0604/siddiknogori/static/css/main.6ea9bf92.chunk.css",
+    "main.js": "/Sakib0604/siddiknogori/static/js/main.2417959c.chunk.js",
+    "main.js.map": "/Sakib0604/siddiknogori/static/js/main.2417959c.chunk.js.map",
+    "runtime-main.js": "/Sakib0604/siddiknogori/static/js/runtime-main.4c18350b.js",
+    "runtime-main.js.map": "/Sakib0604/siddiknogori/static/js/runtime-main.4c18350b.js.map",
+    "static/css/2.325dfaf0.chunk.css": "/Sakib0604/siddiknogori/static/css/2.325dfaf0.chunk.css",
+    "static/js/2.f508af35.chunk.js": "/Sakib0604/siddiknogori/static/js/2.f508af35.chunk.js",
+    "static/js/2.f508af35.chunk.js.map": "/Sakib0604/siddiknogori/static/js/2.f508af35.chunk.js.map",
+    "index.html": "/Sakib0604/siddiknogori/index.html",
+    "static/css/2.325dfaf0.chunk.css.map": "/Sakib0604/siddiknogori/static/css/2.325dfaf0.chunk.css.map",
+    "static/css/main.6ea9bf92.chunk.css.map": "/Sakib0604/siddiknogori/static/css/main.6ea9bf92.chunk.css.map",
+    "static/js/2.f508af35.chunk.js.LICENSE.txt": "/Sakib0604/siddiknogori/static/js/2.f508af35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c18350b.js",
+    "static/css/2.325dfaf0.chunk.css",
+    "static/js/2.f508af35.chunk.js",
+    "static/css/main.6ea9bf92.chunk.css",
+    "static/js/main.2417959c.chunk.js"
+  ]
+}
