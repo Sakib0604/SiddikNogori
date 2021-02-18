@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SiddikNogori/static/css/main.6ea9bf92.chunk.css",
-    "main.js": "/SiddikNogori/static/js/main.2417959c.chunk.js",
-    "main.js.map": "/SiddikNogori/static/js/main.2417959c.chunk.js.map",
+    "main.css": "/SiddikNogori/static/css/main.1402e026.chunk.css",
+    "main.js": "/SiddikNogori/static/js/main.e7b96206.chunk.js",
+    "main.js.map": "/SiddikNogori/static/js/main.e7b96206.chunk.js.map",
     "runtime-main.js": "/SiddikNogori/static/js/runtime-main.422ba1cd.js",
     "runtime-main.js.map": "/SiddikNogori/static/js/runtime-main.422ba1cd.js.map",
     "static/css/2.325dfaf0.chunk.css": "/SiddikNogori/static/css/2.325dfaf0.chunk.css",
-    "static/js/2.f508af35.chunk.js": "/SiddikNogori/static/js/2.f508af35.chunk.js",
-    "static/js/2.f508af35.chunk.js.map": "/SiddikNogori/static/js/2.f508af35.chunk.js.map",
+    "static/js/2.4e73cb29.chunk.js": "/SiddikNogori/static/js/2.4e73cb29.chunk.js",
+    "static/js/2.4e73cb29.chunk.js.map": "/SiddikNogori/static/js/2.4e73cb29.chunk.js.map",
     "index.html": "/SiddikNogori/index.html",
     "static/css/2.325dfaf0.chunk.css.map": "/SiddikNogori/static/css/2.325dfaf0.chunk.css.map",
-    "static/css/main.6ea9bf92.chunk.css.map": "/SiddikNogori/static/css/main.6ea9bf92.chunk.css.map",
-    "static/js/2.f508af35.chunk.js.LICENSE.txt": "/SiddikNogori/static/js/2.f508af35.chunk.js.LICENSE.txt"
+    "static/css/main.1402e026.chunk.css.map": "/SiddikNogori/static/css/main.1402e026.chunk.css.map",
+    "static/js/2.4e73cb29.chunk.js.LICENSE.txt": "/SiddikNogori/static/js/2.4e73cb29.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.422ba1cd.js",
     "static/css/2.325dfaf0.chunk.css",
-    "static/js/2.f508af35.chunk.js",
-    "static/css/main.6ea9bf92.chunk.css",
-    "static/js/main.2417959c.chunk.js"
+    "static/js/2.4e73cb29.chunk.js",
+    "static/css/main.1402e026.chunk.css",
+    "static/js/main.e7b96206.chunk.js"
   ]
 }
