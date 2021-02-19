@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SiddikNogori/static/css/main.11594e3f.chunk.css",
-    "main.js": "/SiddikNogori/static/js/main.7ab9550b.chunk.js",
-    "main.js.map": "/SiddikNogori/static/js/main.7ab9550b.chunk.js.map",
+    "main.js": "/SiddikNogori/static/js/main.3ef9dd6d.chunk.js",
+    "main.js.map": "/SiddikNogori/static/js/main.3ef9dd6d.chunk.js.map",
     "runtime-main.js": "/SiddikNogori/static/js/runtime-main.422ba1cd.js",
     "runtime-main.js.map": "/SiddikNogori/static/js/runtime-main.422ba1cd.js.map",
     "static/css/2.325dfaf0.chunk.css": "/SiddikNogori/static/css/2.325dfaf0.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.325dfaf0.chunk.css",
     "static/js/2.fd0eb345.chunk.js",
     "static/css/main.11594e3f.chunk.css",
-    "static/js/main.7ab9550b.chunk.js"
+    "static/js/main.3ef9dd6d.chunk.js"
   ]
 }
