@@ -1,0 +1,11 @@
+.card-event{
+    width: 100%;
+    background-color: cadetblue;
+    margin-top: 5px;
+    border-radius: 2px;
+    color: cornsilk;
+}
+
+.card-event .event-img{
+    width: 100%;
+}
